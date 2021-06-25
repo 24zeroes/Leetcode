@@ -4,18 +4,18 @@ namespace ExpressionInterpreter.App
 {
     public class ExpressionInterpreter : IExpressionInterpreter
     {
-        private readonly StringToExpressionParser Parser;
-        private readonly string Input;
+        private readonly StringToExpressionParser _parser;
+        private readonly string _input;
         public ExpressionInterpreter(string input)
         {
-            Parser = new StringToExpressionParser();
-            Input = input;
+            _parser = new StringToExpressionParser();
+            _input = input;
         }
 
         public int Calculate()
         {
             var result = 0;
-            foreach (var expression in Parser.Parse(Input))
+            foreach (var expression in _parser.Parse(_input))
             {
                 result = expression.GetExpressionResult();
                 Console.WriteLine(result);
