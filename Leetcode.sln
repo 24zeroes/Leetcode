@@ -42,6 +42,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BinarySearch", "BinarySearc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N744_FindSmallestLetterGreaterThanTarget", "N744_FindSmallestLetterGreaterThanTarget\N744_FindSmallestLetterGreaterThanTarget.csproj", "{7C7C420F-AD25-4E9A-9038-5415FB74E267}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N852_PeakIndexInAMountainArray", "N852_PeakIndexInAMountainArray\N852_PeakIndexInAMountainArray.csproj", "{24421E18-300C-457B-97F1-3700636C030D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,7 @@ Global
 		{3DCA245A-1019-4401-8414-6A122DCFCA66} = {998E74B3-A08A-4076-BE0B-A07E75F73B99}
 		{05002430-33CD-43C6-B345-21A4EE791A04} = {4CFCEB29-5C81-4544-AA4E-D7C9F6E79744}
 		{7C7C420F-AD25-4E9A-9038-5415FB74E267} = {05002430-33CD-43C6-B345-21A4EE791A04}
+		{24421E18-300C-457B-97F1-3700636C030D} = {05002430-33CD-43C6-B345-21A4EE791A04}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{2B072BFA-08A5-4E55-BD3A-59DBB503FDD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -125,5 +128,9 @@ Global
 		{7C7C420F-AD25-4E9A-9038-5415FB74E267}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C7C420F-AD25-4E9A-9038-5415FB74E267}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C7C420F-AD25-4E9A-9038-5415FB74E267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24421E18-300C-457B-97F1-3700636C030D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24421E18-300C-457B-97F1-3700636C030D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24421E18-300C-457B-97F1-3700636C030D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24421E18-300C-457B-97F1-3700636C030D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
