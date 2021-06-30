@@ -10,7 +10,7 @@ namespace HeapTests
         [SetUp]
         public void Setup()
         {
-            Heap = new MinHeap(100, new []{35, 7, 8, 12, 13, 2, 3, 5}); 
+            Heap = new MinHeap(100, new []{35, 7, 8, 12, 13, 2, 3}); 
         }
 
         [Test]
@@ -66,8 +66,12 @@ namespace HeapTests
             // k = 3
             Heap.Pop();
             Heap.Pop();
+            Heap.Pop();
+            Heap.Pop();
+            Heap.Pop();
+            Heap.Pop();
             
-            Assert.AreEqual(5, Heap.Nodes[0]);
+            Assert.AreEqual(35, Heap.Nodes[0]);
         }
     }
 }
