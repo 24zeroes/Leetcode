@@ -1,48 +1,48 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SlidingWindow", "SlidingWindow", "{36F9E65E-37E1-4D80-BF00-E884A955FE12}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SlidingWindow", "Leetcode\SlidingWindow", "{36F9E65E-37E1-4D80-BF00-E884A955FE12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumSizeSubarraySum209", "MinimumSizeSubarraySum209\MinimumSizeSubarraySum209.csproj", "{2B072BFA-08A5-4E55-BD3A-59DBB503FDD3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumSizeSubarraySum209", "Leetcode\SlindingWindow\MinimumSizeSubarraySum209\MinimumSizeSubarraySum209.csproj", "{2B072BFA-08A5-4E55-BD3A-59DBB503FDD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestRepeatingCharacterReplacement424", "LongestRepeatingCharacterReplacement424\LongestRepeatingCharacterReplacement424.csproj", "{5099BE17-D2B7-4C93-9571-7F56F0EE3229}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestRepeatingCharacterReplacement424", "Leetcode\SlindingWindow\LongestRepeatingCharacterReplacement424\LongestRepeatingCharacterReplacement424.csproj", "{5099BE17-D2B7-4C93-9571-7F56F0EE3229}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestSubarrayWithSumAtLeastK862", "ShortestSubarrayWithSumAtLeastK862\ShortestSubarrayWithSumAtLeastK862.csproj", "{53074C42-FB59-4C3A-AAE3-EC885FBFC7D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestSubarrayWithSumAtLeastK862", "Leetcode\SlindingWindow\ShortestSubarrayWithSumAtLeastK862\ShortestSubarrayWithSumAtLeastK862.csproj", "{53074C42-FB59-4C3A-AAE3-EC885FBFC7D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitIntoBaskets904", "FruitIntoBaskets904\FruitIntoBaskets904.csproj", "{4FD59532-12D3-4962-AC92-6FF333D0F130}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitIntoBaskets904", "Leetcode\SlindingWindow\FruitIntoBaskets904\FruitIntoBaskets904.csproj", "{4FD59532-12D3-4962-AC92-6FF333D0F130}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationInString", "PermutationInString\PermutationInString.csproj", "{41800F27-BB27-41BC-95C2-070DAD684F18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationInString", "Leetcode\SlindingWindow\PermutationInString\PermutationInString.csproj", "{41800F27-BB27-41BC-95C2-070DAD684F18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_9_PalindromeNumber", "N_9_PalindromeNumber\N_9_PalindromeNumber.csproj", "{96953B90-19EF-4D9C-99D8-6317C9801BD4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_9_PalindromeNumber", "Leetcode\N_9_PalindromeNumber\N_9_PalindromeNumber.csproj", "{96953B90-19EF-4D9C-99D8-6317C9801BD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_7_ReverseInteger", "N_7_ReverseInteger\N_7_ReverseInteger.csproj", "{49731413-E92B-46DF-B8E7-03A9F64AF560}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_7_ReverseInteger", "Leetcode\N_7_ReverseInteger\N_7_ReverseInteger.csproj", "{49731413-E92B-46DF-B8E7-03A9F64AF560}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_49_GroupAnagrams", "N_49_GroupAnagrams\N_49_GroupAnagrams.csproj", "{E72FC38C-FDED-40B1-9934-025D6EA24013}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_49_GroupAnagrams", "Leetcode\N_49_GroupAnagrams\N_49_GroupAnagrams.csproj", "{E72FC38C-FDED-40B1-9934-025D6EA24013}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Heap", "Heap", "{1D5DB4CF-58B3-4D0F-B36A-ACB740C480C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_215_KthLargestElementInAnArray", "N_215_KthLargestElementInAnArray\N_215_KthLargestElementInAnArray.csproj", "{9C4D3404-C4DB-4900-9B01-C125F3E7DC76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_215_KthLargestElementInAnArray", "Leetcode\Heap\N_215_KthLargestElementInAnArray\N_215_KthLargestElementInAnArray.csproj", "{9C4D3404-C4DB-4900-9B01-C125F3E7DC76}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Leetcode", "Leetcode", "{4CFCEB29-5C81-4544-AA4E-D7C9F6E79744}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Misc", "Misc", "{CE426C94-8D5E-4B62-9661-2EB4FA7363FB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExpressionInterpreter", "ExpressionInterpreter", "{E0E057D4-978B-4FB6-B770-8896F645AC32}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExpressionInterpreter", "Misc\ExpressionInterpreter", "{E0E057D4-978B-4FB6-B770-8896F645AC32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionInterpreter.App", "ExpressionInterpreter.App\ExpressionInterpreter.App.csproj", "{E7D6E49F-8C4A-456C-9753-B6AF4AE7C936}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionInterpreter.App", "Misc\ExpressionInterpreter\ExpressionInterpreter.App\ExpressionInterpreter.App.csproj", "{E7D6E49F-8C4A-456C-9753-B6AF4AE7C936}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionInterpreter.Tests", "ExpressionInterpreter.Tests\ExpressionInterpreter.Tests.csproj", "{62B8AE2C-67DD-4030-92DF-1046CDEC0863}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionInterpreter.Tests", "Misc\ExpressionInterpreter\ExpressionInterpreter.Tests\ExpressionInterpreter.Tests.csproj", "{62B8AE2C-67DD-4030-92DF-1046CDEC0863}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Heap", "Heap", "{998E74B3-A08A-4076-BE0B-A07E75F73B99}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Heap", "Misc\Heap", "{998E74B3-A08A-4076-BE0B-A07E75F73B99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heap", "Heap\Heap.csproj", "{9994C542-443F-485B-9212-1427C691CF03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heap", "Misc\Heap\Heap\Heap.csproj", "{9994C542-443F-485B-9212-1427C691CF03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapTests", "HeapTests\HeapTests.csproj", "{3DCA245A-1019-4401-8414-6A122DCFCA66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapTests", "Misc\Heap\HeapTests\HeapTests.csproj", "{3DCA245A-1019-4401-8414-6A122DCFCA66}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BinarySearch", "BinarySearch", "{05002430-33CD-43C6-B345-21A4EE791A04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N744_FindSmallestLetterGreaterThanTarget", "N744_FindSmallestLetterGreaterThanTarget\N744_FindSmallestLetterGreaterThanTarget.csproj", "{7C7C420F-AD25-4E9A-9038-5415FB74E267}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N744_FindSmallestLetterGreaterThanTarget", "Leetcode/BinarySearch/N744_FindSmallestLetterGreaterThanTarget\N744_FindSmallestLetterGreaterThanTarget.csproj", "{7C7C420F-AD25-4E9A-9038-5415FB74E267}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N852_PeakIndexInAMountainArray", "N852_PeakIndexInAMountainArray\N852_PeakIndexInAMountainArray.csproj", "{24421E18-300C-457B-97F1-3700636C030D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N852_PeakIndexInAMountainArray", "Leetcode/BinarySearch/N852_PeakIndexInAMountainArray\N852_PeakIndexInAMountainArray.csproj", "{24421E18-300C-457B-97F1-3700636C030D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

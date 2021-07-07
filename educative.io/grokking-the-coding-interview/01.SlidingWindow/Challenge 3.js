@@ -1,0 +1,1 @@
+Input: String="aabdec", Pattern="abc"
