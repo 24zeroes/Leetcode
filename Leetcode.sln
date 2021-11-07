@@ -44,6 +44,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N744_FindSmallestLetterGrea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N852_PeakIndexInAMountainArray", "Leetcode/BinarySearch/N852_PeakIndexInAMountainArray\N852_PeakIndexInAMountainArray.csproj", "{24421E18-300C-457B-97F1-3700636C030D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backtracking", "Backtracking", "{9D98617E-9694-4FD9-BAA6-603EA412C773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateParentheses", "Leetcode\Backtracking\GenerateParentheses\GenerateParentheses.csproj", "{278A54B3-B71E-4533-A829-DBD599FD24C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -70,6 +74,8 @@ Global
 		{05002430-33CD-43C6-B345-21A4EE791A04} = {4CFCEB29-5C81-4544-AA4E-D7C9F6E79744}
 		{7C7C420F-AD25-4E9A-9038-5415FB74E267} = {05002430-33CD-43C6-B345-21A4EE791A04}
 		{24421E18-300C-457B-97F1-3700636C030D} = {05002430-33CD-43C6-B345-21A4EE791A04}
+		{9D98617E-9694-4FD9-BAA6-603EA412C773} = {4CFCEB29-5C81-4544-AA4E-D7C9F6E79744}
+		{278A54B3-B71E-4533-A829-DBD599FD24C7} = {9D98617E-9694-4FD9-BAA6-603EA412C773}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{2B072BFA-08A5-4E55-BD3A-59DBB503FDD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -132,5 +138,9 @@ Global
 		{24421E18-300C-457B-97F1-3700636C030D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24421E18-300C-457B-97F1-3700636C030D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24421E18-300C-457B-97F1-3700636C030D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{278A54B3-B71E-4533-A829-DBD599FD24C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278A54B3-B71E-4533-A829-DBD599FD24C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278A54B3-B71E-4533-A829-DBD599FD24C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278A54B3-B71E-4533-A829-DBD599FD24C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
