@@ -50,6 +50,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateParentheses", "Leet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterCombinationsPhoneNumber", "Leetcode\Backtracking\LetterCombinationsPhoneNumber\LetterCombinationsPhoneNumber.csproj", "{6705E92D-CD56-417E-A012-E27A9768EA67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfTwoIntegers", "Leetcode\SumOfTwoIntegers\SumOfTwoIntegers.csproj", "{1484C078-8B25-4115-9F25-F8A1F50DCDC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,7 @@ Global
 		{9D98617E-9694-4FD9-BAA6-603EA412C773} = {4CFCEB29-5C81-4544-AA4E-D7C9F6E79744}
 		{278A54B3-B71E-4533-A829-DBD599FD24C7} = {9D98617E-9694-4FD9-BAA6-603EA412C773}
 		{6705E92D-CD56-417E-A012-E27A9768EA67} = {9D98617E-9694-4FD9-BAA6-603EA412C773}
+		{1484C078-8B25-4115-9F25-F8A1F50DCDC0} = {4CFCEB29-5C81-4544-AA4E-D7C9F6E79744}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{2B072BFA-08A5-4E55-BD3A-59DBB503FDD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -149,5 +152,9 @@ Global
 		{6705E92D-CD56-417E-A012-E27A9768EA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6705E92D-CD56-417E-A012-E27A9768EA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6705E92D-CD56-417E-A012-E27A9768EA67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1484C078-8B25-4115-9F25-F8A1F50DCDC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1484C078-8B25-4115-9F25-F8A1F50DCDC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1484C078-8B25-4115-9F25-F8A1F50DCDC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1484C078-8B25-4115-9F25-F8A1F50DCDC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
